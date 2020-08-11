@@ -1,4 +1,4 @@
-<mxfile host="embed.diagrams.net" modified="2020-08-11T22:26:48.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="-G54KLQ2vTPq5OY1axtm" version="13.6.2">
+<mxfile host="embed.diagrams.net" modified="2020-08-11T22:34:45.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="aCwvEeaiV2NgIjC3Hpww" version="13.6.2">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
         <mxGraphModel dx="1801" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
@@ -165,8 +165,8 @@
                 <mxCell id="98" value="dry-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
                     <mxGeometry x="195" y="120" width="60" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="99" value="system structure diragram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
-                    <mxGeometry x="100" y="40" width="250" height="30" as="geometry"/>
+                <mxCell id="99" value="system structure diagram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="40" width="240" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="102" value="image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="540" y="210" width="40" height="20" as="geometry"/>
